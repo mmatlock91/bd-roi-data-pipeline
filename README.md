@@ -2,6 +2,11 @@
 
 This project demonstrates a complete, end-to-end data engineering and AI workflow to solve a critical business problem: **measuring the ROI of a business development (BD) team.**
 
+#### Code Highlights (For Reviewers)
+If you want to jump straight to the coding/SQL:
+* **The AI/ML Engine:** [AI/ML Name Matching (Python)](https://github.com/mmatlock91/bd-roi-data-pipeline/blob/main/2_orchestration/airflow-docker/dags/name_matching_dag.py)
+* **The Transformation Logic:** [dbt Data Marts (SQL)](https://github.com/mmatlock91/bd-roi-data-pipeline/tree/main/3_dbt_models/models/3_marts)
+
 **This repo shows an end to end business development team analytics pipeline:**
 
 * Clean and key CRM accounts, then match them to transactions using AI based name matching
