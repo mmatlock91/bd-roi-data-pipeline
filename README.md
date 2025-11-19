@@ -76,11 +76,12 @@ graph TD;
         SF[Snowflake]
         DAG[Airflow DAG]
         Clean[Run Python CRM Cleaner]
+        Key[Create Composite Key]
         Match[Run Python AI Matcher]
-        Load[Load Clean & Matched Data to Snowflake]
+        Assign[Assign Key to Matches]
+        Load[Load Cleaned & Matched Data to Snowflake]
 
-
-        SF --> DAG --> Clean --> Match --> Load 
+        SF --> DAG --> Clean --> Key --> Match --> Assign --> Load 
     end
 
     A --> SF
