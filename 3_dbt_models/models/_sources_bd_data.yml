@@ -1,0 +1,9 @@
+version: 2
+sources:
+- name: bd_data
+  schema: public
+  tables:
+  - name: crm_details
+  - name: transactions
+  - name: transactions_matched
+  - name: uncleaned_crm_details

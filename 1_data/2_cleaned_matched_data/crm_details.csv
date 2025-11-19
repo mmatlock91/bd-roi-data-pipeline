@@ -1,0 +1,98 @@
+id,company_name,region,market,account_owner,status,notes,account_status,acv,tenure_months,last_contacted
+1e757cbd8de31140,A24 Films,AMR,USA,Oliver Allen,Completed,Pending documentation review.,Prospect,4350385.0,28.0,4/2/24
+210b6ca9241a9202,Adapptor PTY LTD,APAC,AUSTRALIA,Victoria Moore,In-Progress,Competitor involved; monitoring status.,Inactive,1709066.0,17.0,4/30/22
+f55a4af5e655bb14,Aer Lingus,EMEIA,EURO ZONE,Kevin Ramirez,Pending,Strong interest from finance team.,Prospect,4192807.0,52.0,10/29/22
+262d4b1a12564ea7,Airbnb,APAC,AUSTRALIA,Fiona Wilson,Pending,Requested product demo.,Prospect,1046107.0,147.0,4/9/22
+245b6795681cd7fa,Apple,AMR,USA,Fiona Ramirez,Completed,Waiting on internal approval.,Churned,2832592.0,99.0,8/29/24
+d18dcfb151729194,BR_AU,APAC,AUSTRALIA,Sam Garcia,Completed,Discussed integration requirements.,Churned,2400770.0,144.0,1/18/22
+e734feae954b79dd,Banxa,APAC,AUSTRALIA,Sam Garcia,Pending,Requested product demo.,Churned,4383486.0,129.0,7/10/22
+d6660fcd3366d224,BaubleBar,AMR,USA,Bob Gonzalez,Pending,Requested pricing details.,Churned,3610920.0,104.0,5/27/23
+7f50ea3fc81842f0,Binance,EMEIA,KUWAIT,George Wright,Completed,Competitor involved; monitoring status.,In Review,541234.0,82.0,9/19/24
+7f8bce867c90462b,Bonina Inc,AMR,USA,Sam Garcia,Pending,Competitor involved; monitoring status.,Prospect,160078.0,147.0,1/5/23
+83a177d9e82c1976,Booking.com,APAC,MALAYSIA,Sam Garcia,In-Progress,High-growth potential account.,Churned,1625557.0,54.0,7/9/24
+8245735bff26ee3f,Bose,APAC,JAPAN,Oliver Rodriguez,In-Progress,Requested pricing details.,Churned,4074066.0,46.0,10/1/25
+b2615348a315a8d8,Bybit Fintech Limited,APAC,AUSTRALIA,Penelope Hernandez,Completed,High-growth potential account.,Active,3317824.0,112.0,7/24/23
+43dd3e2e630ca62f,Castellamare,AMR,USA,Bob Gonzalez,Completed,Waiting on internal approval.,Active,1965631.0,4.0,9/28/23
+b8cb18a2b4f51929,Cathay Pacific Airways,AMR,CANADA,Fiona Wilson,In-Progress,Requested product demo.,Active,819598.0,90.0,7/20/23
+b1895ecbfc8b8682,"Cedar Cares, Inc.",AMR,USA,Fiona Harris,Pending,Competitor involved; monitoring status.,Prospect,3381068.0,60.0,9/8/25
+9dd80c0043a852a7,Chanel,EMEIA,EURO ZONE,Oliver Rodriguez,Completed,Requested product demo.,Inactive,4075717.0,33.0,5/30/22
+6137e8896c5664f7,China Southern Air,APAC,CHINA,Walter Taylor,Pending,Follow-up scheduled for next week.,Active,3410011.0,136.0,4/17/24
+1b7cf452ae9129aa,Cinemaxx,EMEIA,EURO ZONE,Kevin Ramirez,Completed,Requested pricing details.,Prospect,3797389.0,96.0,5/12/23
+f8230ab2f486d991,Coolshop,EMEIA,DENMARK,Rachel Jones,Completed,Strong interest from finance team.,Prospect,4733874.0,161.0,6/30/22
+458bc305aedec72f,Daki,AMR,BRAZIL,Walter Taylor,Completed,Requested pricing details.,In Review,3162754.0,161.0,4/28/25
+e373b340d453ab8c,Danske Spil,EMEIA,DENMARK,Oliver Miller,Pending,Strong interest from finance team.,Churned,89353.0,128.0,11/13/23
+eb3c0a7e99c8e72d,Dave & Adams,AMR,USA,Charlie Robinson,Completed,Waiting on internal approval.,Churned,2882868.0,129.0,8/4/25
+3618d756f2d6ff90,Dick Smith AU,APAC,AUSTRALIA,George Thompson,Completed,Strong interest from finance team.,Active,2256903.0,21.0,10/5/25
+42c3ad0c2227c651,Earthwell,AMR,USA,Charlie Robinson,Completed,Waiting on internal approval.,Prospect,3130389.0,111.0,7/24/24
+b7f9bb626c85a98f,Edward & Sons Trading Co,AMR,USA,Walter Taylor,Completed,Discussed integration requirements.,Active,2198815.0,158.0,12/17/24
+982e0680bea82754,Encore Tickets,APAC,AUSTRALIA,Kevin White,Pending,Requested pricing details.,Inactive,1571101.0,11.0,9/10/22
+91889d50e364cac6,Etihad,APAC,AUSTRALIA,George Wright,In-Progress,Strong interest from finance team.,Active,1251482.0,75.0,2/5/22
+dc27ff47e9649b00,Eventbrite,EMEIA,UK,Aiden Clark,Completed,Discussed integration requirements.,Inactive,172409.0,99.0,9/8/25
+48c2033cb6d673b5,Fabhareelite,AMR,USA,George Thompson,Completed,Strong interest from finance team.,Prospect,1454104.0,35.0,2/3/25
+7e8b298cb14432e7,Finnair,EMEIA,NORWAY,Yara Moore,Completed,Waiting on internal approval.,Prospect,3009034.0,99.0,2/1/25
+bc3ef78672c6b642,GOAT,AMR,USA,Walter Taylor,Pending,Discussed integration requirements.,In Review,3483977.0,164.0,1/20/22
+d28a5b509dd96afa,GetYourGuide,EMEIA,ROMANIA,Kevin Ramirez,Pending,Follow-up scheduled for next week.,Active,452690.0,146.0,1/20/25
+7d0a1c2ab5670171,Grant Street,AMR,USA,Sam Garcia,Pending,Waiting on internal approval.,Active,3379462.0,27.0,6/2/24
+53b3a9b456b6eb30,Hartford,AMR,USA,Charlie Anderson,Pending,Competitor involved; monitoring status.,In Review,4595583.0,147.0,10/7/22
+6d017ebf8e77d0ca,Hotel Tonight,AMR,CANADA,Walter Taylor,Completed,Pending documentation review.,Churned,4266263.0,82.0,12/28/23
+f63770d78fd19598,Hotels.com,EMEIA,EURO ZONE,Oliver Rodriguez,Completed,Requested product demo.,Churned,1893400.0,148.0,10/28/25
+25ffedd51be1f634,IONITY,EMEIA,SWEDEN,Sam White,Completed,Requested product demo.,Active,4077419.0,120.0,2/12/23
+b75cbcd964bc06d2,Ingresso,AMR,BRAZIL,Kevin Wright,Pending,Strong interest from finance team.,Prospect,1023548.0,140.0,8/19/24
+aaafefd964b2ac16,J.Jill,AMR,USA,Kevin Ramirez,Pending,Follow-up scheduled for next week.,Inactive,2173091.0,152.0,4/7/24
+b3b5b61ae10e0d8f,JOKR,AMR,USA,Kevin Ramirez,Pending,Strong interest from finance team.,Active,3832875.0,115.0,9/21/22
+d8e46d415b6228c3,Jazeera Airways,EMEIA,KUWAIT,Jasmine Wilson,Completed,Competitor involved; monitoring status.,Active,1711909.0,61.0,10/18/23
+bc69796c0f08528a,KLIX,EMEIA,UAE,Charlie Robinson,Completed,Requested product demo.,Churned,2957360.0,112.0,10/16/23
+73cfa0742d6dd47f,Klarna,EMEIA,SWEDEN,Bob Gonzalez,Completed,Pending documentation review.,Inactive,1998260.0,104.0,2/13/25
+763779fab7d30c59,Kraken,AMR,USA,Fiona Wilson,In-Progress,Follow-up scheduled for next week.,Inactive,3856618.0,54.0,5/3/24
+875df2583bd2e5a2,Kubra,AMR,USA,Jasmine Wilson,Completed,Requested pricing details.,Churned,4743350.0,128.0,10/9/25
+c08e6538eb9be223,"MEGO INTERNATIONAL PROMOTION CO., LTD.",APAC,TAIWAN,Penelope Hernandez,Completed,High-growth potential account.,Prospect,3041650.0,39.0,12/1/23
+c19d18309a6e1267,Manitowoc Public Utilities,AMR,USA,Charlie Johnson,Completed,Requested pricing details.,Inactive,3167697.0,176.0,9/19/24
+befae1b8863ceb8e,Menards,AMR,USA,Jasmine Wilson,Pending,Requested product demo.,Churned,3922998.0,48.0,5/3/24
+caf98b0774871bfd,Mercuryo,AMR,USA,Oliver Lewis,Completed,Needs technical onboarding.,Churned,947421.0,42.0,7/3/25
+afe69bd0e843d89e,ModCloth,AMR,USA,Charlie Anderson,Pending,Strong interest from finance team.,Inactive,592335.0,113.0,11/16/23
+9e3d53cf9c839797,Morrows Private Label,AMR,USA,Fiona Wilson,Completed,Strong interest from finance team.,Active,2589448.0,148.0,1/29/24
+477b6dcb13f7f658,Nanit,AMR,USA,Sam White,Completed,Follow-up scheduled for next week.,Churned,2608231.0,97.0,5/16/24
+486c7ac9ae25b983,OVO Energy,EMEIA,UK,Yara Garcia,Completed,Strong interest from finance team.,Churned,4422093.0,158.0,1/5/22
+d8ab5484ccda9261,Ooredoo,EMEIA,QATAR,Yara Moore,Pending,Discussed integration requirements.,Inactive,1434250.0,68.0,2/22/25
+089eec1cc028f23e,PartsTree,AMR,USA,Rachel Smith,Completed,Strong interest from finance team.,In Review,1611729.0,38.0,1/31/25
+ef662406f5a1b1b2,Paymentus,AMR,USA,Fiona Harris,In-Progress,Competitor involved; monitoring status.,In Review,3914822.0,8.0,5/26/24
+b15eef207967fa38,Paysend Technology limited,APAC,AUSTRALIA,Sam Garcia,Completed,Requested product demo.,Churned,1263475.0,160.0,5/5/23
+eab08aa44602e650,Poppin,AMR,USA,Victoria Miller,In-Progress,Discussed integration requirements.,Inactive,863168.0,128.0,3/20/23
+3dfba42856616b3f,ROLLER GmbH & Co. KG,EMEIA,EURO ZONE,Oliver Lewis,Pending,Requested pricing details.,In Review,4624293.0,147.0,9/3/22
+648fb791c13a6dea,Ralph Lauren,EMEIA,UK,Hannah Johnson,In-Progress,High-growth potential account.,Active,3186729.0,159.0,3/30/25
+706497bc46ffaac7,Remitly,EMEIA,EURO ZONE,Hannah Johnson,Pending,Needs technical onboarding.,Churned,4428368.0,178.0,9/7/24
+c46721271e1607a0,Resident Advisor,AMR,USA,Yara Garcia,Pending,Discussed integration requirements.,Inactive,2004109.0,163.0,2/20/22
+c4793952f8cd6f53,Revolut,EMEIA,CZECH REPUBLIC,Walter Wilson,Pending,Pending documentation review.,Churned,2534413.0,84.0,2/4/23
+b5ddbdc3a48f7b55,Ryanair,EMEIA,CZECH REPUBLIC,Fiona Ramirez,Completed,Strong interest from finance team.,Churned,3394014.0,37.0,6/4/22
+95661962eb7559df,SHEIN,EMEIA,EURO ZONE,Kevin White,Completed,Requested product demo.,Inactive,1920230.0,148.0,10/4/25
+5c4987f70996dd7d,Shenzhen Airline,APAC,CHINA,Charlie Robinson,Pending,Pending documentation review.,Churned,3045765.0,119.0,12/12/24
+3df8d72a73fcef19,Shotgun,EMEIA,EURO ZONE,Bob Gonzalez,Completed,Requested product demo.,In Review,4458324.0,151.0,7/16/24
+f68862cd5a942d22,Singapore Air,APAC,SINGAPORE,Rachel Smith,Pending,Requested pricing details.,In Review,3652279.0,168.0,8/30/23
+8e212d235fe393c2,Singapore Airlines Limited,APAC,AUSTRALIA,Charlie Robinson,Pending,Discussed integration requirements.,Churned,111087.0,142.0,11/10/22
+60f398d7509dd54e,SkyMall,AMR,USA,Walter Taylor,Completed,Follow-up scheduled for next week.,Active,2272809.0,109.0,5/4/25
+d21d1a81e7e303f7,Slate Group,AMR,USA,Sam White,Completed,Strong interest from finance team.,Churned,319536.0,22.0,9/30/24
+9e7f7d74f0418fe6,Stubhub - US,AMR,USA,Fiona Harris,Completed,Strong interest from finance team.,Inactive,159556.0,152.0,6/22/23
+6bb0c75dd43554f9,TABtouch,APAC,AUSTRALIA,Emma White,Completed,Requested product demo.,Prospect,3306415.0,113.0,11/17/23
+e79dde6b13b4c6a5,TUI,EMEIA,UK,Oliver Allen,Pending,Needs technical onboarding.,Active,3520495.0,9.0,2/24/24
+72143113d7788997,Tamara (BNPL),EMEIA,BAHRAIN,Fiona Wilson,In-Progress,Strong interest from finance team.,Inactive,4320070.0,166.0,11/17/22
+391ff31d7384607b,Teaching the Holy Qura,EMEIA,SAUDI ARBIA,Fiona Harris,Completed,Discussed integration requirements.,In Review,731669.0,51.0,2/13/24
+0494c57730b6474d,The Bottle Club,EMEIA,UK,Kevin Ramirez,In-Progress,Pending documentation review.,Inactive,4223125.0,172.0,4/10/24
+a43e20d63399110f,The Hut,EMEIA,UK,Yara Garcia,Completed,Waiting on internal approval.,Inactive,2059021.0,116.0,6/21/24
+edaac29b9c233e57,The Western Union Company,APAC,AUSTRALIA,Sam Garcia,Completed,Waiting on internal approval.,Inactive,2598421.0,110.0,4/13/24
+82ae71615d69db68,TickPick,AMR,USA,Victoria Miller,Pending,Strong interest from finance team.,In Review,1129111.0,164.0,6/2/23
+e3a894dd8ee15b7c,TicketMaster,AMR,MEXICO,Rachel Thomas,Completed,Needs technical onboarding.,In Review,275281.0,33.0,9/5/23
+81fa950b99a01e36,Ticketek,APAC,AUSTRALIA,Kevin White,In-Progress,Requested product demo.,Prospect,93585.0,48.0,4/14/25
+f6bb5b381147cdec,Ticketmaster,AMR,USA,Bob Gonzalez,Completed,Pending documentation review.,Churned,4684096.0,148.0,11/1/22
+b83dc94d2bb90048,Ticketmaster (Microflex),EMEIA,CZECH REPUBLIC,George Wright,Completed,Needs technical onboarding.,In Review,3571441.0,90.0,11/26/24
+22a7c922d50ae8c3,Token Transit,AMR,USA,Walter Taylor,In-Progress,Requested pricing details.,Inactive,1546176.0,21.0,7/24/23
+e53f309bb7b69895,TopGolf - US,AMR,USA,Bob Gonzalez,Pending,Strong interest from finance team.,In Review,2066716.0,7.0,5/8/22
+5aaa2d0c94cab083,Transak,AMR,USA,Penelope Hernandez,In-Progress,Follow-up scheduled for next week.,In Review,466880.0,145.0,9/29/24
+7fbfbb45d0a7a7d3,Trip.com,EMEIA,UAE,Fiona Ramirez,In-Progress,Requested pricing details.,Churned,4472880.0,169.0,7/29/23
+356e4615147354e9,Turkish Airlines,APAC,AUSTRALIA,Emma Harris,In-Progress,Needs technical onboarding.,In Review,3107213.0,131.0,11/28/24
+b092baa94a4a746c,Uphold,EMEIA,EURO ZONE,Charlie Robinson,In-Progress,Requested product demo.,Prospect,2706138.0,48.0,9/26/22
+032f0ab146c4bc78,Ursus,EMEIA,RUSSIA,Aiden Clark,Completed,Requested product demo.,Active,1791093.0,30.0,2/16/22
+97e7036b594c809e,WHOOP Inc.,APAC,AUSTRALIA,Aiden Davis,Completed,Needs technical onboarding.,Prospect,4372252.0,93.0,3/12/25
+fd05ad30b20df2e0,Wilko,EMEIA,UK,George Wright,Pending,Requested pricing details.,Inactive,924371.0,2.0,9/18/23
+5046cd96ecff2b39,ZALORA - Fashion Shopping,APAC,HONG KONG,Bob Gonzalez,Completed,Requested product demo.,In Review,2058187.0,49.0,10/19/23
+27823ea07a4bca6c,Zalo,APAC,VIETNAM,Emma White,In-Progress,Needs technical onboarding.,Active,1169043.0,27.0,9/18/24
+0f3465578ae8a98a,bebe stores,AMR,USA,Bob Gonzalez,Pending,Discussed integration requirements.,In Review,4309622.0,135.0,12/13/24

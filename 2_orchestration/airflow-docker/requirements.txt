@@ -1,0 +1,10 @@
+apache-airflow-providers-google
+apache-airflow-providers-snowflake==5.0.0
+google-cloud-bigquery
+google-cloud-storage
+pandas
+pyarrow
+sentence-transformers
+faiss-cpu
+scikit-learn
+rapidfuzz
